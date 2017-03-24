@@ -1,2 +1,3 @@
-# hello-world
-hello-world - my first repoitory
+# firs site
+my first repozitory
+Just for fun
